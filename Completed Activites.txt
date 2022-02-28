@@ -1,3 +1,7 @@
+Alex:
+- Investigated obstacle detecting sensors/camera and collision
+- Iteration 1 of implementing obstacle detection and collision avoidance in CoppeliaSim
+
 Will:
 - Iteration 1 of snow plow design option 1 (Onshape Model)
 - Iteration 2 of snow plow design option 1 (Coppeliasim Model)
