@@ -1,6 +1,6 @@
 Will:
-- Iteration 1 of snow plow design option 1
-- Iteration 2 of snow plow design option 1
+- Iteration 1 of snow plow design option 1 (Onshape Model)
+- Iteration 2 of snow plow design option 1 (Coppeliasim Model)
 
 Leenesh:
 - Adding Stimuli and objects into training map and testing for collision
