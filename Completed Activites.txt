@@ -1,3 +1,7 @@
 Will:
 - Iteration 1 of snow plow design option 1
 - Iteration 2 of snow plow design option 1
+
+Leenesh:
+- Adding Stimuli and objects into training map and testing for collision
+- Testing and Implementing Line Following
