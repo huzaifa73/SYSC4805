@@ -9,3 +9,7 @@ Will:
 Leenesh:
 - Adding Stimuli and objects into training map and testing for collision
 - Testing and Implementing Line Following
+
+Huzaifa:
+- Iteration 1 of Snow Plow Design Option 2 (Onshape Model)
+- Iteration 2 of Snow Plow Design Option 2 (CoppeliaSim model)
