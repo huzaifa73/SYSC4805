@@ -1,0 +1,3 @@
+This folder contains the first iteration of plow option 2, created in OnShape for desgining purposes.
+It also contains a second iteration of plow option 2 tested and created in CoppeliaSim.
+These were the first two individual tasks assigned for Lab 4 and 5, to test some ideas on different plow shapes and how to create them in CoppeliaSim.
