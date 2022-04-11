@@ -1,3 +1,0 @@
-In the coppeliaSim testing map, on the top navigation bar, click file -> load model -> select "PioneerPlow.ttm" and open it
-The model should be loaded into the world, and is ready to go. Simply click play on the simulation and the robot will unfurl its plows and start moving. 
-Please do not speed up the simulation as it has an effect on the results and how quickly the robot is able to read information from the sensors.
